@@ -1,3 +1,7 @@
+#EXTM3U name-tvg="Parapapa"
+#EXTM3U autor-tvg="By Dan"
+#EXTM3U url-tvg="https://github.com/Yoggidan/bydad21136.git"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080
