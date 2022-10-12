@@ -2,6 +2,9 @@
 #EXTM3U autor-tvg="By Dan"
 #EXTM3U url-tvg="https://github.com/Yoggidan/bydad21136.git"
 
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/back_origin_pic/04/18/37/9919366f6c283c28fb29b30c368af779.jpg" tvg-id="Evento 4K", Evento 4k
+acestream://de2074f9558653838083f180af86939013bd7f50
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080
