@@ -16,6 +16,8 @@ acestream://ed147166c7df93f7aecba44d4e2fc9383d028218
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" tvg-id="DAZN LaLigaHD", DAZN LaLiga 1080
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" tvg-id="DAZN LaLigaHD Bis", DAZN LaLiga 1080
+acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 MultiAudio
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
