@@ -10,7 +10,7 @@ acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" tvg-id="Gol Mundial 2", GOL MUNDIAL 2 1080
 acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTVE_4K&psig=AOvVaw0ZWy0wc5JixI5QLwdzaPlP&ust=1669280520513000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDEzdX4w_sCFQAAAAAdAAAAABAR" tvg-id="TVE UHD", TVE UHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Logo_TVE-4K.svg/1200px-Logo_TVE-4K.svg.png" tvg-id="TVE UHD", TVE UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
