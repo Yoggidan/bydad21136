@@ -2,9 +2,9 @@
 #EXTM3U autor-tvg="By Dan"
 #EXTM3U url-tvg="https://github.com/Yoggidan/bydad21136.git"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" tvg-id="Gol Mundial 4K", GOL MUNDIAL 4K
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" tvg-id="Gol Mundial", GOL MUNDIAL 4K
 acestream://07c562d0ac9b4aa16d067ea9fb7b655b8c8b781e
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" tvg-id="Gol Mundial UHD", GOL MUNDIAL UHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" tvg-id="Gol Mundial", GOL MUNDIAL UHD
 acestream://fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" tvg-id="Gol Mundial", GOL MUNDIAL 1080
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
