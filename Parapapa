@@ -1,7 +1,6 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTM3U name-tvg="Parapapa"
 #EXTM3U autor-tvg="By Dan"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-"https://github.com/Yoggidan/bydad21136.git"
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
