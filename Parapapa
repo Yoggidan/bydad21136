@@ -12,6 +12,13 @@ acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga 1", M. LaLiga 1 1080
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio Otro
+acestream://65e3e3bd74f801c78e4f4f65bb4c5af429b6fba1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio Otro Bis
+acestream://15738d9abcbdbdfe0d2b9d067c4fca60175b6e71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" tvg-id="M+ LaLiga HD", M. LaLiga 1080 Multiaudio Otro Bis 1
+acestream://31d79996fb4b175f534359393aa43821afd11b3b
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" tvg-id="DAZN LaLigaHD", DAZN LaLiga 1080
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" tvg-id="DAZN LaLigaHD", DAZN LaLiga 1080 Bis
