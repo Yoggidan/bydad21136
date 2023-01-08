@@ -48,16 +48,4 @@ acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="2ª Opción" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio Otro
-acestream://65e3e3bd74f801c78e4f4f65bb4c5af429b6fba1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="2ª Opción" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio Otro Bis
-acestream://15738d9abcbdbdfe0d2b9d067c4fca60175b6e71
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="2ª Opción" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio Otro Bis 1
-acestream://31d79996fb4b175f534359393aa43821afd11b3b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="2ª Opción" tvg-id="M+DEPORTESHD", M. Deportes 1080 Otro
-acestream://200489d6bfc8295ce59238160564249ff2cca6ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="2ª Opción" tvg-id="M+DEPORTESHD", M. Deportes 1080 Otro Bis
-acestream://4745f6b6f4ea9be7790dcbdf52f4f3352aa532b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="2ª Opción" tvg-id="M+DEPORTESHD", M. Deportes 1080 Otro Bis 1
-acestream://9f41a7d6f803746183fcb7af8fc1873324963424
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="2ª Opción" tvg-id="M+LCAMPEONES", M.L. Campeones 4K MultiAudio
-acestream://0a9ce014b6d922b38cd6ce7569f1299219030e02
+acestream://0e382ebf4e14e40ea75a89e437c5edb1904b2be0
