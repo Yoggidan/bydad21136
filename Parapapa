@@ -43,9 +43,6 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="El_Dani" tvg-id="DAZN F1 HD", DAZN F1 1080 (Formula 1)
-acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="El_Dani" tvg-id="DAZN F1 HD 2", DAZN F1 1080 (Formula 1)
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="2ª Opción" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1080 Otro
-acestream://a6b02f69364c973e6a32d63cfb6c887e04c1a028
