@@ -17,9 +17,6 @@ acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="El_Dani" tvg-id="DAZN 2 LaLigaHD", DAZN 2 LaLiga 1080
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 
-#EXTINF:-1 tvg-logo="https://www.pinterest.com.mx/pin/296393219223863313/" group-title="El_Dani" tvg-id="Evento UHD", EVENTO UHD
-acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 MultiAudio
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 Multiaudio Bis
