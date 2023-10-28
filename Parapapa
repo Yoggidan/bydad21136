@@ -3,6 +3,8 @@
 #EXTM3U name-tvg="Parapapa"
 #EXTM3U autor-tvg="By Dan"
 
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/arquivo/2020/06/bar.png?crop=top&fit=crop&h=461&ixlib=php-1.1.0&w=860" group-title="El_Dani" tvg-id="La Liga BAR HD", La Liga BAR 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio Bis
