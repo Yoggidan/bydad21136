@@ -3,14 +3,6 @@
 #EXTM3U name-tvg="Parapapa"
 #EXTM3U autor-tvg="By Dan"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" group-title="El_Dani" tvg-id="M+ SuperCopa HD", M. SuperCopa 1080
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" group-title="El_Dani" tvg-id="M+ SuperCopa HD", M. SuperCopa 1080
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" group-title="El_Dani" tvg-id="M+ SuperCopa HD", M. SuperCopa 1080 Multiaudio
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" group-title="El_Dani" tvg-id="M+ SuperCopa HD", M. SuperCopa 1080 Multiaudio
-acestream://e4c8343599a0b9ecbd2ec6ef8a83153e8e0a5bb4
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus", Movistar Plus 1080
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/arquivo/2020/06/bar.png?crop=top&fit=crop&h=461&ixlib=php-1.1.0&w=860" group-title="El_Dani" tvg-id="La Liga BAR HD", La Liga BAR 1080
@@ -32,8 +24,6 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN 2 LaLigaHD", DAZN 2 LaLiga 1080
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1378511461" group-title="El_Dani" tvg-id="DAZN Liga F", DAZN Liga Femenina
-acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones 1080
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
@@ -46,9 +36,6 @@ acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES3", M.L. Campeones 3 1080
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus", Movistar Plus 1080
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="El_Dani" tvg-id="M+ VAMOSHD", Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="El_Dani" tvg-id="M+DEPORTESHD", M. Deportes 1080
