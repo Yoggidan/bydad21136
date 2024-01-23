@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTM3U url-tvg="https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTM3U name-tvg="Parapapa"
 #EXTM3U autor-tvg="By Dan"
 
