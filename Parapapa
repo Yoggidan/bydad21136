@@ -3,7 +3,7 @@
 #EXTM3U name-tvg="Parapapa"
 #EXTM3U autor-tvg="By Dan"
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.cartv.es/thumbs/990x750r/2019-12/copa-denl-rey.jpg" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.UMycg8L0DS9mCaSr%2bM1JQg&rs=1&pid=ImgDetMain" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.cartv.es/thumbs/740x0c/2019-12/copa-denl-rey.jpg" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080 Plus
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
