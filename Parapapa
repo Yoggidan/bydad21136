@@ -3,13 +3,13 @@
 #EXTM3U name-tvg="Parapapa"
 #EXTM3U autor-tvg="By Dan"
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://s1.eestatic.com/2021/03/24/actualidad/568454585_176344272_1024x576.jpg" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080 Plus
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://s1.eestatic.com/2021/03/24/actualidad/568454585_176344272_1024x576.jpg" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080 Plus
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080 Multiaudio
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://s1.eestatic.com/2021/03/24/actualidad/568454585_176344272_1024x576.jpg" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080 Multiaudio
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://s1.eestatic.com/2021/03/24/actualidad/568454585_176344272_1024x576.jpg" group-title="El_Dani" tvg-id="M Copa", Movistar Copa 1080
 acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus", Movistar Plus 1080
