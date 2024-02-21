@@ -5,11 +5,6 @@
 #EXTM3U autor-tvg="By Dan"
 
 
-#EXTINF:-1 tvg-logo="https://salaodejogos.net/wp-content/uploads/2018/02/UFC3.jpg" group-title="El_Dani" tvg-id="UFC", UFC 1080
-acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-logo="https://salaodejogos.net/wp-content/uploads/2018/02/UFC3.jpg" group-title="El_Dani" tvg-id="UFC", UFC 1080
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus", Movistar Plus 1080
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/arquivo/2020/06/bar.png?crop=top&fit=crop&h=461&ixlib=php-1.1.0&w=860" group-title="El_Dani" tvg-id="La Liga BAR HD", La Liga BAR 1080
