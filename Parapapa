@@ -25,8 +25,9 @@ acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN 2 LaLigaHD", DAZN 2 LaLiga 1080
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN 3 LaLigaHD", DAZN 3 LaLiga 1080
+acestream://3d0b2395098452617097896abb38956965b8a396
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN 3 LaLigaHD", DAZN 3 LaLiga 1080
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones 1080
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
