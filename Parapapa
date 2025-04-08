@@ -14,8 +14,6 @@ acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/arquivo/2020/06/bar.png?crop=top&fit=crop&h=461&ixlib=php-1.1.0&w=860" group-title="El_Dani" tvg-id="La Liga BAR HD", La Liga BAR
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/arquivo/2020/06/bar.png?crop=top&fit=crop&h=461&ixlib=php-1.1.0&w=860" group-title="El_Dani" tvg-id="La Liga BAR HD", La Liga BAR
-acestream://580fa1e7623d514a94e8585f90c42eda09d5e4f1
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD", M. LaLiga
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
@@ -47,15 +45,17 @@ acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
 acestream://05057e832dd1530c7d5e8b0857fee6826243a243
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
-acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
-acestream://ec6ce96a4e4eb523108418a84babc9eca4b4c507
+acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
+acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
-acestream://0adc3b525508b4a74ce65685870894a77401afb7
+acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
